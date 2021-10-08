@@ -1,0 +1,5 @@
+.vs/
+.vs/*.vs/
+.vscode/
+.vscode/*
+*.tests.ps1
