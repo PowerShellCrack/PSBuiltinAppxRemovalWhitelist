@@ -2,4 +2,6 @@
 .vs/*.vs/
 .vscode/
 .vscode/*
+.github/
+.github/*
 *.tests.ps1
